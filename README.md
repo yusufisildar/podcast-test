@@ -78,8 +78,8 @@ jobs:
 
 * 🐙 **GitHub Actions**
 * 🧾 **YAML**
-* 🐧 **Linux (Ubuntu Runners)**
-* 🧰 **Node.js / npm**
+* 🐧 **Dockers)**
+* 🧰 **Python**
 * ☁️ **GitHub Pages Deploy**
 
 ---
