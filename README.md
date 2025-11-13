@@ -1,10 +1,3 @@
-Tabii! Aşağıda sana **GitHub Actions öğrendiğin bir kurs** için örnek, süslemeli ve açıklayıcı bir `README.md` taslağı verdim.
-Bu dosya **profilinde veya repo sayfanda dikkat çekici** duracak şekilde tasarlandı: görseller, emoji’ler, rozetler, tablo ve örnek workflow yapısı içeriyor.
-Görselleri kendi repo linkinle veya [shields.io](https://shields.io) tarzı linklerle değiştirebilirsin.
-
----
-
-````markdown
 <h1 align="center">🚀 GitHub Actions Kursu</h1>
 
 <p align="center">
@@ -134,15 +127,3 @@ jobs:
   <img src="https://raw.githubusercontent.com/username/repo/main/assets/ci-bot.gif" width="300" alt="CI Bot GIF"/>
 </p>
 ```
-
----
-
-İstersen bunu sana **kişiselleştirilmiş** (örneğin: senin adın, kursun adı, görsellerinle ve tema rengine göre) şekilde düzenleyebilirim.
-Hazırlamam için sadece şunları yaz yeter:
-
-* Kursun tam adı (örneğin: “GitHub Actions Bootcamp - Udemy”)
-* Kendi GitHub kullanıcı adın
-* İstersen tema rengi (örneğin: **mavi**, **mor**, **koyu**)
-
-Buna göre sana özel bir sürüm üreteyim — görselleri senin deposuna uygun hale getiririm.
-Yapayım mı?
