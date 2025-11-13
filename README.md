@@ -90,5 +90,3 @@ Throughout the course, I learned how to:
 <p align="center">
   <img src="https://raw.githubusercontent.com/username/repo/main/assets/devops-animation.gif" width="350" alt="DevOps Animation">
 </p>
-```
-
