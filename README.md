@@ -12,8 +12,7 @@
 
 ## 📘 About the Project
 
-This repository documents my progress through the  
-🎓 **“Advanced GitHub Actions”** course on LinkedIn Learning.
+This repository documents my progress through the 🎓 **“Advanced GitHub Actions”** course on LinkedIn Learning.
 
 Throughout the course, I learned how to:
 - Build **custom GitHub Actions** from scratch  
